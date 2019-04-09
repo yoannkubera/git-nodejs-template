@@ -1,0 +1,31 @@
+{
+  "name": "browsvel",
+  "version": "0.1.0",
+  "description": "Web and light novel scraper and Epub converter",
+  "author": "Yoann KUBERA <yoann.kubera@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "htmlparser",
+    "scraper",
+    "epub",
+    "novels"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yoannkubera/browsvel.git"
+  },
+  "files": [
+    "assets",
+    "data",
+    "scrapers",
+    "src",
+    "epub"
+  ],
+  "engines": {
+    "node": ">= 10.15.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
