@@ -1,0 +1,25 @@
+# Licenses list obtained from the GitHub help
+# URL: https://help.github.com/en/articles/licensing-a-repository
+# Date: 19/07/2019
+#
+apache-2.0 https://www.apache.org/licenses/LICENSE-2.0
+bsl-1.0 https://www.boost.org/LICENSE_1_0.txt
+cc https://creativecommons.org/licenses/
+cc0-1.0 https://creativecommons.org/publicdomain/zero/1.0/deed.fr
+cc-by-4.0 https://creativecommons.org/licenses/by/4.0/
+cc-by-sa-4.0 https://creativecommons.org/licenses/by-sa/4.0/
+wtfpl http://www.wtfpl.net/
+eupl-1.1 https://ec.europa.eu/info/european-union-public-licence_en
+agpl-3.0 https://www.gnu.org/licenses/why-affero-gpl.en.html
+gpl https://www.gnu.org/licenses/licenses.en.html
+gpl-2.0 https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+gpl-3.0 https://www.gnu.org/licenses/gpl-3.0.en.html
+lgpl-2.1 https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+lgpl-3.0 https://www.gnu.org/licenses/lgpl-3.0.en.html
+isc https://www.isc.org/licenses/
+lppl-1.3c https://www.latex-project.org/lppl/
+mit https://opensource.org/licenses/MIT
+mpl-2.0 https://www.mozilla.org/en-US/MPL/2.0/
+postgresql https://www.postgresql.org/about/licence/
+ncsa https://otm.illinois.edu/disclose-protect/illinois-open-source-license
+unlicense https://unlicense.org/

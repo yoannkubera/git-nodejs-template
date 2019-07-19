@@ -1,6 +1,5 @@
 # Ignore the npm related files
 node_modules/
-package-lock.json
 
 # Ignore the downloaded and generated data
 .data/*

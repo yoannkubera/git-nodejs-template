@@ -1,9 +1,16 @@
 {
   "name": "browsvel",
-  "version": "0.1.0",
-  "description": "Web and light novel scraper and Epub converter",
+  "version": "---",
+  "release_date": "---",
+  "description": "A web novel scraper & epub converter written in typescript/nodejs",
   "author": "Yoann KUBERA <yoann.kubera@gmail.com>",
-  "license": "MIT",
+  "maintainers": [
+    "Yoann KUBERA <yoann.kubera@gmail.com>"
+  ],
+  "contributors": [
+    "Yoann KUBERA <yoann.kubera@gmail.com>"
+  ],
+  "license": "mit",
   "keywords": [
     "htmlparser",
     "scraper",
@@ -14,18 +21,26 @@
     "type": "git",
     "url": "git://github.com/yoannkubera/browsvel.git"
   },
-  "files": [
-    "assets",
-    "data",
-    "scrapers",
-    "src",
-    "epub"
-  ],
+  "directories": {
+    "src": [
+      "./assets",
+      "./bin",
+      "./core",
+      "./scrapers"
+    ],
+    "doc": "./doc",
+    "test": "./test"
+  },
   "engines": {
     "node": ">= 10.15.0"
   },
+  "os" : [ "linux" ],
   "dependencies": {
   },
-  "devDependencies": {},
-  "scripts": {}
+  "devDependencies": {
+      "doctoc": "^1.4.0",
+      "typescript": "^3.5.3"
+  },
+  "scripts": {},
+  "private": true
 }
